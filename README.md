@@ -1,7 +1,9 @@
 
-# UDP receiver
+# UDP sender.
 
 As the name suggests this code sends UDP packets. This code sends the UDP packet you type in the cmd line to the IP and port you set it in the config file.
+
+###### UDP receiver can be found [here](https://github.com/JaimyTuin223/UDP-receiver) 
 
 
 ## Note
