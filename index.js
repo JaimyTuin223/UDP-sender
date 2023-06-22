@@ -37,7 +37,7 @@ rl.question("Please enter the UDP message: ", function (string) {
         if (err) {
             console.error('Failed to send packet !!')
         } else {
-            console.log('Packet send !!')
+            console.log('Packet sent !!')
        }
     })
   
