@@ -1,4 +1,4 @@
 {
-    "hostname": "192.168.178.30",
+    "hostname": "DESTINATION_IP",
     "port": 2222
 }
