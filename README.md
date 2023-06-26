@@ -36,6 +36,9 @@ To deploy this project run
   npm start
 ```
 
+## Editing the code
+If you want to build the code into your own system, I'd suggest removing the ReadLine (RL), so you can set the message variable in your own way.
+
 
 ## Features
 
